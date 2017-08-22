@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BitGrayApp</string>
+    <string name="title_activity_maps">Ubicacion de usuarios</string>
+    <string name="title_gps">GPS</string>
+    <string name="text_dialog_map">"Debes activar el GPS para continuar. Deseas activarlo?"</string>
+    <string name="title_button_ok">Aceptar</string>
+    <string name="title_button_cancel">Cancel</string>
+
+
+</resources>
